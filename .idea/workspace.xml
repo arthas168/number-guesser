@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1201d69d-aa0a-44ce-a198-9d343d01fd20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="s5jx6htd" />
+  </component>
+  <component name="ProjectId" id="1jbnhmB0JCWcS0zosf3o2pVcf53" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command" nameIsGenerated="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="/usr/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1201d69d-aa0a-44ce-a198-9d343d01fd20" name="Default Changelist" comment="" />
+      <created>1604081779766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604081779766</updated>
+      <workItem from="1604081780840" duration="42000" />
+      <workItem from="1604081831420" duration="1010000" />
+      <workItem from="1604128958866" duration="426000" />
+      <workItem from="1604605272172" duration="100000" />
+      <workItem from="1604605582547" duration="2195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="97" width="1169" height="826" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604081970656">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state x="420" y="97" width="1169" height="826" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1020@0.0.1920.1020" timestamp="1604081970656" />
+    <state width="1860" height="238" key="GridCell.Tab.0.bottom" timestamp="1604129311436">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state width="1860" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1020@0.0.1920.1020" timestamp="1604129311436" />
+    <state width="1860" height="238" key="GridCell.Tab.0.center" timestamp="1604129311436">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state width="1860" height="238" key="GridCell.Tab.0.center/0.0.1920.1020@0.0.1920.1020" timestamp="1604129311436" />
+    <state width="1860" height="238" key="GridCell.Tab.0.left" timestamp="1604129311435">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state width="1860" height="238" key="GridCell.Tab.0.left/0.0.1920.1020@0.0.1920.1020" timestamp="1604129311435" />
+    <state width="1860" height="238" key="GridCell.Tab.0.right" timestamp="1604129311436">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state width="1860" height="238" key="GridCell.Tab.0.right/0.0.1920.1020@0.0.1920.1020" timestamp="1604129311436" />
+    <state x="2578" y="114" width="1271" height="912" key="SettingsEditor" timestamp="1604605709442">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="329" y="54" width="1271" height="912" key="SettingsEditor/0.0.1920.1020@0.0.1920.1020" timestamp="1604081895550" />
+    <state x="2578" y="114" key="SettingsEditor/1920.0.3840.2160/0.406.1920.1080@1920.0.3840.2160" timestamp="1604605709442" />
+  </component>
+</project>
